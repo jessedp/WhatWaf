@@ -32,7 +32,7 @@ Installing whatwaf is super easy, whatwaf is compatible with Python2 and Python3
 This will install whatwaf into `~/.whatwaf/.install/bin` which will allow you to run it from the terminal just by using `whatwaf`
 
 You can also install it manually by running the following:
-```
+```bash
 sudo -s << EOF
 git clone https://github.com/ekultek/whatwaf.git
 cd whatwaf
